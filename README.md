@@ -24,7 +24,7 @@ https://worldkite-wp.s14staging.uk/
 
 ## Ecommerce website
 
-I created a payment Woocomerce addon called ICS. The live site is down at the moment and here is the link to the plugin. https://github.com/segunolamidegitup/ics
+I created a payment Woocomerce addon called ICS. The live site is down at the moment and here is the link to the plugin. https://github.com/segunolamidegitup/ics. Payment Portal DOC: https://portal.icsaccess.com/docs/query_api_integration/ 
 
 
 ## Crypto Investment website
